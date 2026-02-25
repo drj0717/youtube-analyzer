@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Session artifacts
+context.md
+screenshot.jpg
+*.jpg
+*.png
+
+# Local Claude settings (contains machine-specific permissions)
+.claude/settings.local.json
